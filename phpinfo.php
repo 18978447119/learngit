@@ -1,3 +1,3 @@
 <?php
- echo 123; 
+  iconv('utf-8','gbk','中国');
 ?>
